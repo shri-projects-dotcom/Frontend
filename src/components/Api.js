@@ -1,0 +1,1 @@
+export const host="https://backend-bkc3.onrender.com/expense"
