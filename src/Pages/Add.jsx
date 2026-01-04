@@ -23,7 +23,6 @@ export default function Form() {
             nav("/")
 
         } catch (error) {
-                toast.error(res.data.message)
                 console.log(error)            
         }
     }
